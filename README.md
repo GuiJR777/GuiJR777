@@ -23,7 +23,7 @@ I've done some very basic frontend projects, but it's worth mentioning because i
   
  ##
  
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp;My Skills </h3>
 
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

@@ -1,17 +1,16 @@
+# Play my games on Itch.io: [RamiresTech Games Page](https://ramirestechgames.itch.io/)
+
 ### Hello World, I am Guilherme! 👋
 ![](https://komarev.com/ghpvc/?username=GuiJR777&color=006bed)
 ![](https://img.shields.io/github/followers/GuiJR777.svg?style=social&label=Follow&maxAge=2592000)
 
-- 💼 &nbsp; Working as a **Software Engineer** on the <a href="https://www.quintoandar.com.br/">QuintoAndar</a>
+- 🤔 &nbsp; I'm a Christian, married to a beautiful woman, Vicenzo`s Dad, I have a black cat (which only brings good luck) and I'm passionate about good stories, whether in books, movies, games, comics, music or whatever they are.
+
+- 💼 &nbsp; Working as a **Software Engineer** on the <a href="https://www.quintoandar.com.br/">QuintoAndar</a> and Game Developer at <a href="https://www.instagram.com/ramirestech.games/">RamiresTech Games</a>
 
 - 🎓 &nbsp; Studying Information Systems at the <a href="https://sin.ufsc.br/"> Federal University of Santa Catarina (UFSC)</a>.
 
-- 🤔 &nbsp; I'm married and passionate about good stories, whether in movies, series, games, books, comics or the way it is presented and I also have a soft spot for music.
 
-- 🌱 &nbsp; I've been looking to develop myself more and more in the Python programming language, paying attention to design patterns, testing, and clean, solid coding. I've also been learning Java to deal with specific demands.
-I am interested in developing skills in infrastructure to become a more complete backend professional.
-I'm also very interested in Game Development, that's why I've been studying C++, Unreal Engine and Game Design.
-I've done some very basic frontend projects, but it's worth mentioning because it demonstrates my flexibility.
 
 ##
 
@@ -53,7 +52,7 @@ I've done some very basic frontend projects, but it's worth mentioning because i
   <a href="https://instagram.com/guilhermejramires" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:guilhermejramires@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-ramires-4480a0160" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/5548984634295" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href="https://wa.me/5548988377938" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
  
 </div>
               

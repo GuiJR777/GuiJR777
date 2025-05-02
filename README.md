@@ -6,9 +6,7 @@
 
 - 🤔 &nbsp; I'm a Christian, married to a beautiful woman, Vicenzo`s Dad, I have a black cat (which only brings good luck) and I'm passionate about good stories, whether in books, movies, games, comics, music or whatever they are.
 
-- 💼 &nbsp; Working as a **Software Engineer** on the <a href="https://www.quintoandar.com.br/">QuintoAndar</a> and Game Developer at <a href="https://www.instagram.com/ramirestech.games/">RamiresTech Games</a>
-
-- 🎓 &nbsp; Studying Information Systems at the <a href="https://sin.ufsc.br/"> Federal University of Santa Catarina (UFSC)</a>.
+- 🎓 &nbsp; Digital Games at the <a href="https://descomplica.com.br/faculdade/tecnologia/jogos-digitais/"> Descomplica </a>.
 
 
 

@@ -1,56 +1,146 @@
-# See my portfolio on: [Portfolio Page](https://guilhermeramires-portfolio.ramirestech.com)
+# Guilherme Ramires
 
-### Hello World, I am Guilherme! 👋
-![](https://komarev.com/ghpvc/?username=GuiJR777&color=006bed)
-![](https://img.shields.io/github/followers/GuiJR777.svg?style=social&label=Follow&maxAge=2592000)
+### Software Engineer | Python Backend | Applied AI | Game Development
 
-- 🤔 &nbsp; I'm a Christian, married to a beautiful woman, Vicenzo`s Dad, I have a black cat (which only brings good luck) and I'm passionate about good stories, whether in books, movies, games, comics, music or whatever they are.
+I build backend systems, APIs, automation tools and AI-powered applications using **Python, FastAPI, Django, PostgreSQL, Redis and cloud infrastructure**.
 
-- 🎓 &nbsp; Digital Games at the <a href="https://descomplica.com.br/faculdade/tecnologia/jogos-digitais/"> Descomplica </a>.
+I also develop gameplay systems and technical prototypes with **Godot and Unity**, with a strong interest in software architecture, gameplay programming and reusable systems.
 
+🌎 Based in Brazil · Available for remote opportunities
+💼 Backend Engineering · AI Engineering · Game Development
+🗣️ Advanced English
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge)](https://guilhermeramires-portfolio.ramirestech.com)
+[![Game Portfolio](https://img.shields.io/badge/Game_Portfolio-itch.io-FA5C5C?style=for-the-badge\&logo=itchdotio\&logoColor=white)](https://ramirestechgames.itch.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme_Ramires-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/guilherme-ramires-4480a0160)
 
-##
+---
+
+## 🧠 What I work with
+
+### Backend & Software Engineering
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square\&logo=python\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square\&logo=pytest\&logoColor=white)
+
+### AI & Data
+
+![OpenAI](https://img.shields.io/badge/LLMs-000000?style=flat-square\&logo=openai\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Systems-blueviolet?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-Agentic_Workflows-orange?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square\&logo=apachespark\&logoColor=white)
+
+I work with **LLMs, RAG, embeddings, agentic workflows, structured outputs, evaluation pipelines and AI integrations**.
+
+### Cloud & Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws\&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square\&logo=googlecloud\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square\&logo=supabase\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI/CD-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
+
+### Game Development
+
+![Godot Engine](https://img.shields.io/badge/Godot-478CBF?style=flat-square\&logo=godotengine\&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square\&logo=unity\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square\&logo=csharp\&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat-square\&logo=godotengine\&logoColor=white)
+
+Gameplay systems, state machines, combat systems, abilities, AI, animation integration and reusable gameplay architecture.
+
+---
+
+## 🚀 Selected Work
+
+### 🤖 LLM Recommendation API
+
+Backend recommendation service built with **FastAPI, Redis and LLM integrations**.
+
+* Redis-backed recommendation caching with 72h TTL
+* Structured API layer for product/design recommendations
+* Automated LLM-generated descriptions
+* Reduced repetitive work for the Design team by approximately **2 hours per week**
+
+### 🧠 Generative AI / RAG PoC
+
+Generative AI system designed to extract and reason over complex structured information.
+
+* Gemini-based extraction involving **110 structured fields**
+* Retrieval-Augmented Generation architecture
+* Improved assertiveness from approximately **35% to 71%**
+
+### ⚙️ Python Automation & Data Engineering
+
+Throughout my backend work I've built:
+
+* REST APIs and internal services
+* ETL and data pipelines
+* Cloud integrations
+* Web crawlers and automation systems
+* PostgreSQL and Redis-backed applications
+* Automated workflows that eliminated repetitive operational work
+
+One automation initiative reduced approximately **4 hours of manual work per team every week**.
+
+### 🐈 Whiskers of Rage
+
+3D action roguelite currently being developed in **Godot**.
+
+I'm using the project to explore production-oriented gameplay architecture including:
+
+* Ability System inspired by Unreal's GAS
+* Attribute and Gameplay Tag systems
+* Combat state machines
+* Animation-driven hit detection
+* Combo systems
+* Hit confirm
+* Knockback and knockdown
+* Buffered global input system
+* Enemy AI and Behavior Trees
+
+→ [View repository](https://github.com/GuiJR777/Whiskers-Of-Rage)
+
+---
+
+## 🔬 Currently exploring
+
+* Production-ready **AI agents**
+* LLM evaluation and tool-use workflows
+* Model Context Protocol (**MCP**)
+* Software engineering with AI-assisted development
+* Advanced gameplay architecture in **Godot**
+* Reusable systems inspired by **Unreal GAS**
+
+---
+
+## 📊 GitHub
 
 <div align="center">
-  <a href="https://github.com/GuiJR777">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiJR777&show_icons=true&include_all_commits=true&count_private=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiJR777&layout=compact&langs_count=10&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GuiJR777&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiJR777&layout=compact&langs_count=8&theme=github_dark"/>
 </div>
-  
- ##
- 
-<h3> :rocket: &nbsp;My Skills </h3>
 
-  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+---
 
-          
-  
+## 👋 A little more about me
 
-  ##
- 
-  <h3> :telephone_receiver:  My Contact</h3>
- 
-<div style="display: inline_block" align="center"> 
-  <a href="https://instagram.com/guilhermejramires" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:guilhermejramires@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilherme-ramires-4480a0160" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/5548988377938" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
- 
-</div>
-              
+Outside software, I'm passionate about games and good stories — books, movies, comics and everything that creates memorable worlds.
+
+I'm particularly interested in projects where **software engineering, AI and interactive systems** intersect.
+
+---
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme_Ramires-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/guilherme-ramires-4480a0160)
+[![Email](https://img.shields.io/badge/Email-guilhermejramires%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:guilhermejramires@gmail.com)
+
+![](https://komarev.com/ghpvc/?username=GuiJR777\&color=006bed)
